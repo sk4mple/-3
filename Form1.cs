@@ -27,12 +27,12 @@ namespace Модуль_3
                 "О программе",
                  MessageBoxButtons.OK,
                  MessageBoxIcon.Information);
-        }
+        }//изменения
 
         private void opentoolStripButton1_Click(object sender, EventArgs e)
         {
             MessageBox.Show(
-                "Фунция будет добавлена позже",
+                "Фунция будет добавлена чуть позже",
                 "Информация",
                  MessageBoxButtons.OK,
                  MessageBoxIcon.Information);
