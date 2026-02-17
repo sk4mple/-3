@@ -37,7 +37,10 @@ namespace Модуль_3
                  MessageBoxButtons.OK,
                  MessageBoxIcon.Information);
         }
-
+        public void DoSomething()
+        {
+            // здесь что-то происходит
+        }
         private void formsPlot_Load(object sender, EventArgs e)
         {
 
